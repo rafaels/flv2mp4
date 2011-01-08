@@ -1,0 +1,18 @@
+== flv2mp4
+
+This is a simple tool to convert flv files to mp4.
+
+Just try
+
+    ruby flv2mp4.rb some_file.flv
+
+and it will convert it to *some_file.mp4*
+
+
+If you want to convert entire dir, try
+
+    ruby dir_flv2mp4.rb
+
+and wait a lot!
+
+I am interested in faster ways to convert video media, but for now, I have not so much answers.
